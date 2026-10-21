@@ -1,5 +1,5 @@
 ---
-title: "ECON 334 Assignment XXX (Group Assignment)"
+title: "ECON 334 Assignment 4 (Group Assignment)"
 format: 
   html:
     embed-resources: true
@@ -10,7 +10,7 @@ execute:
 
 ### Tutorial Section: (your tutorial section)
 ### Group Number: (your group number)
-### Group Member 1: (name & student number of first group member)
+### Group Member 1: Christopher Allen
 ### Group Member 2: (name & student number of second group member)
 ### Group Member 3: (name & student number of third group member)
 ### Group Member 4: (name & student number of fourth group member)
